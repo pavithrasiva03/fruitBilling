@@ -17,30 +17,3 @@ btn1.addEventListener("click",()=>{
 
 
 })
-/*let c1=document.querySelector("#c1")
-console.log(c1)
-
-c1.addEventListener("click",()=>{
-let apple=parseInt(document.querySelector("#apple").value)
-console.log(apple*15000)
-})
-//console.log(apple)
-let c2=document.querySelector("#c2")
-console.log(c2)
-
-c2.addEventListener("click",()=>{
-let mango=parseInt(document.querySelector("#mango").value)
-console.log(mango*25000)
-})
-
-
-let c3=document.querySelector("#c3")
-console.log(c3)
-
-c3.addEventListener("click",()=>{
-let orange=parseInt(document.querySelector("#orange").value)
-console.log(orange*60000)
-})
-let add=c1+c2+c3
-console.log(add)*/
-
